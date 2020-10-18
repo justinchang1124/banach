@@ -1,0 +1,13 @@
+name: banach
+title: banach
+username:
+account: justinchang1124
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2975252
+bundleId: 3718865
+url: https://justinchang1124.shinyapps.io/banach/
+when: 1602197853.93734
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: problem.JPG
